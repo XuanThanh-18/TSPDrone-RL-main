@@ -1,0 +1,2 @@
+*.jl linguist-language=Julia
+*.py linguist-language=Python
